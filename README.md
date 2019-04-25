@@ -51,7 +51,7 @@
 ### Message Distribution by genre
 ![Data Description Image 1](data_1.png)
 
-### Categories Distribution for each genre
+### Categories Distribution top 10
 ![Data Description Image 2](data_2.png)
 
 
